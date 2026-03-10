@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Hi, I am Ben Benyamin, a passionate Robotics Engineer. I believe that to excel in robotics, one should have all the bases covered. I completed my MS in Robotics at Northwestern University and my BS in Mechanical Engineering at Tel Aviv University.
+Hi, I am Ben Benyamin, a passionate Robotics Engineer. I completed my MS in Robotics at Northwestern University and my BS in Mechanical Engineering at Tel Aviv University.
 
 In my free time, I enjoy hiking and playing my guitar (🤘).
 
